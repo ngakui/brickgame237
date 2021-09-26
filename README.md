@@ -1,6 +1,6 @@
 # Brickgame237
 
-It's a game where a player use a paddle and a ball  to destruct bricks and win the game. Each time that the ball cross the paddle, game is finish and the user have to retry.
+It's a game where a player use a paddle and a ball  to destruct bricks and win the game. Each time that the ball cross the paddle, game is finish and the user have to retry. To start we use Space keyboard key and Move the paddle with left and right keys. Good Luck!!!!
 
 # Prerequisites
 ---> Install python
